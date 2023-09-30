@@ -1,6 +1,6 @@
 # Image_Processing_Projects
 ---
-## MATLAB_Projects_1
+## MATLAB_Projects_1  *[`link`](/MATLAB_Projects_1/ "MATLAB_Projects_1")*
 
 ### T1_Histogram_Equalization
 - Implementation of **Histogram Equalization** algorithm only on the pixels inside the circle in the image.
