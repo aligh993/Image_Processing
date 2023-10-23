@@ -18,6 +18,7 @@
 
 ![picture 3](/MATLAB_Projects_1/Pic3.jpg)
 
+<<<<<<< HEAD
 ---
 ## MATLAB_Projects_2  *[`link`](/MATLAB_Projects_2/ "MATLAB_Projects_2")*
 
@@ -55,4 +56,6 @@
 ![picture 3A](/MATLAB_Projects_2/Pic3_A.jpg)
 ![picture 3B](/MATLAB_Projects_2/Pic3_B.jpg)
 
+=======
+>>>>>>> cd3a4985b0a868a4991e9623cd5dd553721ab6d0
 ---
