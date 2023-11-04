@@ -58,3 +58,32 @@
 [<img src="/MATLAB_Projects_2/Pic3_B.jpg" width="300"/>](/MATLAB_Projects_2/Pic3_B.jpg)
 
 ---
+## Content-Based Image Retrieval (CBIR) System  *[`link`](/CBIR/ "CBIR")*
+
+### RGB_CBIR
+- Content-based image retrieval system by using RGB color histogram.
+
+[<img src="/CBIR/Pic_a_1_1.jpg" width="300"/>](/CBIR/Pic_a_1_1.jpg)
+[<img src="/CBIR/Pic_a_1_2.jpg" width="300"/>](/CBIR/Pic_a_1_2.jpg)
+
+### HSV_CBIR
+- Content-based image retrieval system by using HSV color histogram.
+
+[<img src="/CBIR/Pic_a_2_1.jpg" width="300"/>](/CBIR/Pic_a_2_1.jpg)
+[<img src="/CBIR/Pic_a_2_2.jpg" width="300"/>](/CBIR/Pic_a_2_2.jpg)
+
+### RGB_CBIR_Half
+- Content-based image retrieval system by using RGB color histogram on half of the image.
+
+[<img src="/CBIR/Pic_b_1_1.jpg" width="300"/>](/CBIR/Pic_b_1_1.jpg)
+[<img src="/CBIR/Pic_b_1_2.jpg" width="300"/>](/CBIR/Pic_b_1_2.jpg)
+[<img src="/CBIR/Pic_b_1_3.jpg" width="300"/>](/CBIR/Pic_b_1_3.jpg)
+
+### HSV_CBIR_Half
+- Content-based image retrieval system by using HSV color histogram on half of the image.
+
+[<img src="/CBIR/Pic_b_2_1.jpg" width="300"/>](/CBIR/Pic_b_2_1.jpg)
+[<img src="/CBIR/Pic_b_2_2.jpg" width="300"/>](/CBIR/Pic_b_2_2.jpg)
+[<img src="/CBIR/Pic_b_2_3.jpg" width="300"/>](/CBIR/Pic_b_2_3.jpg)
+
+---
