@@ -92,25 +92,25 @@
 ### Hybrid_Fourier
 - Creating the **Hybrid Image** using the **Fast Fourier Transform (FFT)**.
 
-[<img src="/4_Image_Pyramids_Blending/Pic_1_1.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_1.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_1_2.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_2.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_1_3.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_3.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_1_4.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_4.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_1_1.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_1_1.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_1_2.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_1_2.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_1_3.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_1_3.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_1_4.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_1_4.png)
 
 ### Hybrid_Pyramid
 - Creating the **Hybrid Image** using the **Laplacian Pyramids**.
 
-[<img src="/4_Image_Pyramids_Blending/Pic_2_3.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_2_3.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_2_6.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_2_6.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_2_9.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_2_9.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_2_3.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_2_3.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_2_6.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_2_6.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_2_9.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_2_9.png)
 
 ### Blend_Pyramid
 - Creating the **Blended Image** using the **Laplacian Pyramids**.
 
-[<img src="/4_Image_Pyramids_Blending/Pic_3_3.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_3.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_3_4.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_4.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_3_9.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_9.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_3_10.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_10.png)
-[<img src="/4_Image_Pyramids_Blending/Pic_3_11.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_11.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_3.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_3.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_4.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_4.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_9.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_9.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_10.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_10.png)
+[<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_11.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_11.png)
 
 ---
