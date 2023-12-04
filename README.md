@@ -16,7 +16,7 @@
 [<img src="/1_Contrast_Adjustment/Pic2_B.jpg" width="300"/>](/1_Contrast_Adjustment/Pic2_B.jpg)
 
 ### Compare
-- Comparing **Histogram Equalization** and **Contrast Stretching** algorithms
+- Comparing **Histogram Equalization** and **Contrast Stretching** algorithms.
 
 [<img src="/1_Contrast_Adjustment/Pic3.jpg" width="300"/>](/1_Contrast_Adjustment/Pic3.jpg)
 
@@ -61,29 +61,56 @@
 ## 3_Content-Based Image Retrieval (CBIR) System  *[`link`](/3_Content_Based_Image_Retrieval/ "3_Content_Based_Image_Retrieval")*
 
 ### RGB_CBIR
-- Content-based image retrieval system by using RGB color histogram.
+- Content-based image retrieval system by using **RGB color histogram**.
 
 [<img src="/3_Content_Based_Image_Retrieval/Pic_a_1_1.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_a_1_1.png)
 [<img src="/3_Content_Based_Image_Retrieval/Pic_a_1_2.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_a_1_2.png)
 
 ### HSV_CBIR
-- Content-based image retrieval system by using HSV color histogram.
+- Content-based image retrieval system by using **HSV color histogram**.
 
 [<img src="/3_Content_Based_Image_Retrieval/Pic_a_2_1.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_a_2_1.png)
 [<img src="/3_Content_Based_Image_Retrieval/Pic_a_2_2.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_a_2_2.png)
 
 ### RGB_CBIR_Half
-- Content-based image retrieval system by using RGB color histogram on half of the image.
+- Content-based image retrieval system by using **RGB color histogram** on **half** of the image.
 
 [<img src="/3_Content_Based_Image_Retrieval/Pic_b_1_1.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_b_1_1.png)
 [<img src="/3_Content_Based_Image_Retrieval/Pic_b_1_2.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_b_1_2.png)
 [<img src="/3_Content_Based_Image_Retrieval/Pic_b_1_3.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_b_1_3.png)
 
 ### HSV_CBIR_Half
-- Content-based image retrieval system by using HSV color histogram on half of the image.
+- Content-based image retrieval system by using **HSV color histogram** on **half** of the image.
 
 [<img src="/3_Content_Based_Image_Retrieval/Pic_b_2_1.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_b_2_1.png)
 [<img src="/3_Content_Based_Image_Retrieval/Pic_b_2_2.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_b_2_2.png)
 [<img src="/3_Content_Based_Image_Retrieval/Pic_b_2_3.png" width="300"/>](/3_Content_Based_Image_Retrieval/Pic_b_2_3.png)
+
+---
+## 4_Image Pyramids & Blending  *[`link`](/4_Image_Pyramids_Blending/ "4_Image_Pyramids_Blending")*
+
+### Hybrid_Fourier
+- Creating the **Hybrid Image** using the **Fast Fourier Transform (FFT)**.
+
+[<img src="/4_Image_Pyramids_Blending/Pic_1_1.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_1.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_1_2.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_2.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_1_3.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_3.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_1_4.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_1_4.png)
+
+### Hybrid_Pyramid
+- Creating the **Hybrid Image** using the **Laplacian Pyramids**.
+
+[<img src="/4_Image_Pyramids_Blending/Pic_2_3.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_2_3.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_2_6.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_2_6.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_2_9.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_2_9.png)
+
+### Blend_Pyramid
+- Creating the **Blended Image** using the **Laplacian Pyramids**.
+
+[<img src="/4_Image_Pyramids_Blending/Pic_3_3.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_3.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_3_4.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_4.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_3_9.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_9.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_3_10.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_10.png)
+[<img src="/4_Image_Pyramids_Blending/Pic_3_11.png" width="300"/>](/4_Image_Pyramids_Blending/Pic_3_11.png)
 
 ---
