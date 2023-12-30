@@ -1,4 +1,4 @@
-# Image Processing Projects
+# Image Processing & Computer Vision Projects
 
 > **_NOTE:_**  Click on the images to view the full-size.
 ---
@@ -112,5 +112,33 @@
 [<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_9.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_9.png)
 [<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_10.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_10.png)
 [<img src="/4_Image_Pyramids_Blending/Output_Images/Pic_3_11.png" width="300"/>](/4_Image_Pyramids_Blending/Output_Images/Pic_3_11.png)
+
+---
+## 5_Scale-Invariant Feature Transform (SIFT) algorithm *[`link`](/5_Scale_Invariant_Feature_Transform/ "5_Scale_Invariant_Feature_Transform")*
+
+### SIFT_v1
+- In this algorithm, we select an image and apply changes **(rotation, size change)** on the selected image, then extract and display the **SIFT features** of the two images.
+
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_1.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_1.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_2.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_2.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_3.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_3.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_4.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_4.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_5.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_5.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_6.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_6.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_7.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_7.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_8.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_A_8.png)
+
+### SIFT_v2
+- In this algorithm, we select an image and apply changes **(rotation, size change)** on the selected image, then display the corresponding **SIFT features** of the two images.
+
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_B_1.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_B_1.png)
+
+### CBIR_SIFT_trainHist & CBIR_SIFT_main
+- Improving Content Based Image Retrieval **(CBIR)** using Scale Invariant Feature Transform **(SIFT)**. CBIR using the **3D histogram** (left images) & rectified ranking using the **SIFT** (right images).
+
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_1.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_1.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_2.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_2.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_3.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_3.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_4.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_4.png)
 
 ---
