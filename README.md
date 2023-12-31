@@ -140,5 +140,26 @@
 [<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_2.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_2.png)
 [<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_3.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_3.png)
 [<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_4.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_4.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_5.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_5.png)
+[<img src="/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_6.png" width="300"/>](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_6.png)
+
+---
+## 6_Gradient Domain Fusion (Poisson Blending, Mixed Gradient) *[`link`](/6_Gradient_Domain_Fusion/ "6_Gradient_Domain_Fusion")*
+
+### Gradient_Blend
+- Implementation of **Poisson Blending** and **Mixed Gradient** algorithms.
+
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_1_1.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_1_1.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_1_2.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_1_2.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_1_3.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_1_3.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_1_4.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_1_4.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_2_1.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_2_1.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_2_2.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_2_2.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_2_3.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_2_3.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_2_4.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_2_4.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_3_1.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_3_1.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_3_2.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_3_2.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_3_3.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_3_3.png)
+[<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_3_4.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_3_4.png)
 
 ---

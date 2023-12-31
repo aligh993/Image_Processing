@@ -18,11 +18,13 @@
 ![picture B1](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_1_B_1.png)
 
 ### CBIR_SIFT_trainHist & CBIR_SIFT_main
-- Improving Content Based Image Retrieval **(CBIR)** using Scale Invariant Feature Transform **(SIFT)**. CBIR using the **3D histogram** (left images) & rectified ranking using the **SIFT** (right images).
+- Improving Content Based Image Retrieval **(CBIR)** using Scale Invariant Feature Transform **(SIFT)**. CBIR using the **3D histogram** & rectified ranking using the **SIFT**.
 
 ![picture 21](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_1.png)
 ![picture 22](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_2.png)
 ![picture 23](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_3.png)
 ![picture 24](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_4.png)
+![picture 25](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_5.png)
+![picture 26](/5_Scale_Invariant_Feature_Transform/Output_Images/Out_3_2_6.png)
 
 ---
