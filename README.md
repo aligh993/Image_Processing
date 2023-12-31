@@ -163,3 +163,19 @@
 [<img src="/6_Gradient_Domain_Fusion/Output_Images/Pic_3_4.png" width="300"/>](/6_Gradient_Domain_Fusion/Output_Images/Pic_3_4.png)
 
 ---
+## 7_Camera Calibration with OpenCV *[`link`](/7_Camera_Calibration_with_OpenCV/ "7_Camera_Calibration_with_OpenCV")*
+
+### Camera_Calibration
+- Implementation of **Camera Calibration** method with **OpenCV**.
+  - This program has **two modes**:
+    1. The images are taken from the camera and the distortion of the camera is removed at the same moment, this mode includes two stages: **Train** (extracting camera parameters) and **Test** (testing the camera by simultaneously displaying the two original and corrected parts).
+    2. Images are selected from the image folder and the corrected image is displayed and saved in the output folder.	
+
+[<img src="/7_Camera_Calibration_with_OpenCV/Pic_1.png" width="300"/>](/7_Camera_Calibration_with_OpenCV/Pic_1.png)
+[<img src="/7_Camera_Calibration_with_OpenCV/Pic_2.png" width="300"/>](/7_Camera_Calibration_with_OpenCV/Pic_2.png)
+[<img src="/7_Camera_Calibration_with_OpenCV/Pic_3.png" width="300"/>](/7_Camera_Calibration_with_OpenCV/Pic_3.png)
+[<img src="/7_Camera_Calibration_with_OpenCV/Input_2/Image_1.jpg" width="300"/>](/7_Camera_Calibration_with_OpenCV/Input_2/Image_1.jpg)
+[<img src="/7_Camera_Calibration_with_OpenCV/Output/chkDisImage_In2_Img1.png" width="300"/>](/7_Camera_Calibration_with_OpenCV/Output/chkDisImage_In2_Img1.png)
+[<img src="/7_Camera_Calibration_with_OpenCV/Output/calibratedImage_In2_Img1.png" width="300"/>](/7_Camera_Calibration_with_OpenCV/Output/calibratedImage_In2_Img1.png)
+
+---
